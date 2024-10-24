@@ -1,0 +1,68 @@
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-size:50px;
+}
+
+.text-right-captize{
+    text-align: right;
+    text-transform: capitalize;
+    font-size: 150%;
+    text-shadow:2px 2px #ff0000;
+}
+
+.text-center-lower{
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 150%;
+    text-shadow: 2px 2px #ff0000;;
+}
+
+.text-left-upper{
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 150%;
+    text-shadow: 2px 2px #ff0000;;
+}
+
+header{
+    background-image: url(https://www.cricketcountry.com/wp-content/uploads/2023/07/Virat-Kohli-18.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    color:white
+}
+
+section{
+   /* background-color: lightgray; */
+    background:linear-gradient(to top left,rgba(168, 193, 228, 0.881),lightgreeen);
+}
+
+.small-heading{
+/* background-color: orange; */
+background: linear-gradient(to right, rgb(245, 210, 135),rgb(225, 139, 25));
+color: white;
+font-size: xx-large;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+.box{
+    background-color: white;
+    border: 2px solid;
+    max-width: 200px;
+    max-height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    position: relative;
+
+}
+.box-h5{
+    color:blueviolet;
+    text-align: center;
+}
